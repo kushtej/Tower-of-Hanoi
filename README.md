@@ -1,6 +1,8 @@
 # Tower of Hanoi
 Basic Tower of Hanoi Implementaion using GLUT.
 
+__PREVIEW:__
+
 ![Alt text](/preview.png?raw=true "PREVIEW")
 
 __Steps to Install GLUT in Ubuntu:__
