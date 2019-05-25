@@ -1,4 +1,4 @@
-# tower-of-hanoi
+# Tower of Hanoi
 Basic Tower of Hanoi Implementaion using GLUT.
 
 __Steps to Install GLUT in Ubuntu:__
@@ -16,3 +16,5 @@ __To RUN the project:__
 g++ project.cpp -o toh  -lGL -lGLU -lglut
 ./toh
 ```    
+
+> If you Like this project. Please don't forget to star it.
