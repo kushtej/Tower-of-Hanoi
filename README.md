@@ -1,7 +1,7 @@
 # tower-of-hanoi
 Basic Tower of Hanoi Implementaion using GLUT.
 
-Steps to Install GLUT in Ubuntu:
+__Steps to Install GLUT in Ubuntu:__
 
 Open Terminal and typein the following commands:-
 
@@ -11,8 +11,8 @@ sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
 
 ```
 
-To RUN the project:
+__To RUN the project:__
 ```
-    g++ project.cpp -o toh  -lGL -lGLU -lglut
-    ./toh
+g++ project.cpp -o toh  -lGL -lGLU -lglut
+./toh
 ```    
